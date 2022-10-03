@@ -1,6 +1,7 @@
 rencana belajar kedepan
 
 -javascript
+framework react
 *es6
 *framework react
   angular
@@ -8,3 +9,7 @@ rencana belajar kedepan
 -php framework
   Laravel
   Code Igniter
+  
+belajar p3k
+belajar terus
+
