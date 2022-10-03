@@ -1,3 +1,5 @@
 ari resolusi
 -Api sederhana
 -minimal sudah bisa consume rest api public
+-bisa buat rest api sendiri
+-fokus codeigniter terus laravel/terjun ke javascript
