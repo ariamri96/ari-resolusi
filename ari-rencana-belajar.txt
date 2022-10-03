@@ -1,8 +1,11 @@
 rencana belajar kedepan
 
 -javascript
+framework react
 *es6
 *framework react
 -php framework
 -java framework
 materi vlogeer
+belajar p3k
+belajar terus
