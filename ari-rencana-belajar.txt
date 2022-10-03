@@ -4,8 +4,12 @@ rencana belajar kedepan
 framework react
 *es6
 *framework react
+  angular
+  vue
 -php framework
--java framework
-materi vlogeer
+  Laravel
+  Code Igniter
+  
 belajar p3k
 belajar terus
+
