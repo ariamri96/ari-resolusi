@@ -1,5 +1,7 @@
 rencana belajar kedepan
 
 -javascript
+*es6
+*framework react
 -php framework
 -java framework
