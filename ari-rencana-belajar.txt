@@ -3,6 +3,8 @@ rencana belajar kedepan
 -javascript
 *es6
 *framework react
+  angular
+  vue
 -php framework
--java framework
-materi vlogeer
+  Laravel
+  Code Igniter
