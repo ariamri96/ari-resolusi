@@ -1,0 +1,3 @@
+ari resolusi
+-Api sederhana
+-minimal sudah bisa consume rest api public
